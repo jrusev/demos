@@ -2,6 +2,12 @@
     text-decoration: none !important;
 }
 
+.form-signin {
+  max-width: 300px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
 input.ng-dirty.ng-invalid {
     background-color: pink !important;
 }
