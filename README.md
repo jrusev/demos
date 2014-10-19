@@ -1,2 +1,2 @@
-## Demos for this github
+## Demos for [github.com/jrusev](https://github.com/jrusev)
 
