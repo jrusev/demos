@@ -6,7 +6,7 @@ var ticTacToeApp = angular.module('myApp', ['ngResource', 'ngRoute'])
 
         $routeProvider
             .when('/', {
-                templateUrl: 'views/games.html'
+                templateUrl: 'views/home.html'
             })
             .when('/games/', {
                 templateUrl: 'views/games.html'
